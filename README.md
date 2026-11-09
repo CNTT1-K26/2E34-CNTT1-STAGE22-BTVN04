@@ -11,6 +11,8 @@ Bảng so sánh Ưu / Nhược điểm giữa 2 Giải pháp
 | **Độ tin cậy ** | **Rất cao (Ưu điểm):** Được cộng đồng xác nhận qua nhiều năm với lượng upvote vượt trội (500 upvotes) và được chính chủ câu hỏi chấp nhận . | **Trung bình (Nhược điểm):** Số lượng upvote khiêm tốn hơn (50 upvotes) và chưa được chủ thớt đánh tích xanh. |
 | **Tính cập nhật với hệ điều hành mới** | **Thấp (Nhược điểm):** Đăng từ 2014 (thời Windows 7/8), nhiều khả năng dùng cú pháp hoặc cơ chế SSH/OpenSSH cũ đã bị loại bỏ hoặc thay đổi trên các HĐH hiện đại. | **Rất cao (Ưu điểm):** Cập nhật gần đây (2023) và được cộng đồng xác nhận trực tiếp trong bình luận là hoạt động chuẩn xác trên Windows 11. |
 | **Rủi ro gây hỏng thiết lập hiện tại** | **Cao:** Áp dụng các lệnh hoặc cấu hình bảo mật từ năm 2014 lên hệ điều hành Windows 11 hiện tại có thể làm xung đột SSH Key, đè cấu hình Git cũ hoặc lỗi tương thích PowerShell/CMD. | **Thấp:** Được tối ưu cho môi trường hệ điều hành Windows 11 mới nhất, giảm tối đa rủi ro xung đột hệ thống. |
+
+
 Yếu tố thời gian và sự thay đổi công nghệ
 
 Tích xanh trên StackOverflow chỉ đại diện cho việc giải pháp đó đã đúng tại thời điểm người đặt câu hỏi chấp nhận nó (năm 2014).
